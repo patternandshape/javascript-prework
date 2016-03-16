@@ -1,5 +1,5 @@
 {
-  "name": "ping-pong",
+  "name": "my-proj",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patternandshape/javascript-prework.git"
+    "url": "git+https://github.com/patternandshape/js-template.git"
   },
   "bugs": {
-    "url": "https://github.com/patternandshape/javascript-prework/issues"
+    "url": "https://github.com/patternandshape/js-template/issues"
   },
-  "homepage": "https://github.com/patternandshape/javascript-prework#readme",
+  "homepage": "https://github.com/patternandshape/js-template#readme",
   "description": ""
 }
