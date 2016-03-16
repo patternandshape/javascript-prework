@@ -37,7 +37,7 @@ $(document).ready(function() {
         $('.showWeather').text("invalid city");
       }
     }).fail(function(error) {
-      $('.showWeather').text(error.message);
+      $('.showWeather').text(error.responseJSON.message);
     });
   });
 });
